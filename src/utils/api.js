@@ -1,0 +1,1 @@
+export const API_LINK = "https://api.quicksell.co/v1/internal/frontend-assignment";
